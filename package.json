@@ -1,0 +1,17 @@
+{
+  "name": "contactjsx",
+  "version": "1.0.0",
+  "description": "task",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-standalone": "^6.26.0"
+  }
+}
